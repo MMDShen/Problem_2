@@ -56,5 +56,16 @@ $ git log
 ```
 ![git log](./assets/images/6.JPG)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+#### is Connected to the folder's DATAs
+![a HINT in Writing Queries](FAQ.JPG)
+
+
 
 ENDED
